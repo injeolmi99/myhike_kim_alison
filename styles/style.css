@@ -35,3 +35,7 @@
     margin: 0 auto;
     /* Centers the circle horizontally */
   }
+
+.material-icons {
+    cursor: pointer;
+}
